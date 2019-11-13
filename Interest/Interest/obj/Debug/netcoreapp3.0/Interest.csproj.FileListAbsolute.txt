@@ -1,0 +1,10 @@
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\bin\Debug\netcoreapp3.0\Interest.exe
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\bin\Debug\netcoreapp3.0\Interest.deps.json
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\bin\Debug\netcoreapp3.0\Interest.runtimeconfig.json
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\bin\Debug\netcoreapp3.0\Interest.runtimeconfig.dev.json
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\bin\Debug\netcoreapp3.0\Interest.dll
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\bin\Debug\netcoreapp3.0\Interest.pdb
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\obj\Debug\netcoreapp3.0\Interest.AssemblyInfoInputs.cache
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\obj\Debug\netcoreapp3.0\Interest.AssemblyInfo.cs
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\obj\Debug\netcoreapp3.0\Interest.dll
+D:\workspace\C#Basics\C# Lab Code\Interest\Interest\obj\Debug\netcoreapp3.0\Interest.pdb
